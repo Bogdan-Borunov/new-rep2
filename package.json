@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "build": "python build.py" 
+    "build": "python build_script.py" 
   },
   "author": "bogdan",
   "license": "ISC",
